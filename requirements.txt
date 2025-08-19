@@ -1,0 +1,6 @@
+rasterio
+tifffile
+patchify
+numpy
+earthengine-api
+geemap
